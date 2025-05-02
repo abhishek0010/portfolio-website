@@ -2,7 +2,7 @@
     "header": {
         "title": "Sashwat K",
         "meta": {
-            "description": "Welcome to Sashwat K's Portfolio. Sashwat K is a Senior Engineer @ IBM ISDL! Backend Developer | Systems Engineer | Embedded Firmware Enthusiast | DevOps Engineer | FOSS | Ham Radio Enthusiast",
+            "description": "Welcome to Sashwat K's Portfolio. Sashwat K is a Senior Engineer @ IBM ISDL! Confidential Computing on IBM Z | Senior Engineer @ IBM ISDL | Ex-AMD Xilinx | GoLang | Python | Docker | Terraform",
             "author": "Sashwat K"
         }
     },
@@ -10,7 +10,7 @@
         "designation": "Senior Engineer, IBM ISDL",
         "mail_id": "hi@sashwat.in",
         "address": "Based in Bangalore, India",
-        "copyrights": "2024 Sashwat K. All Rights Reserved",
+        "copyrights": "2025 Sashwat K. All Rights Reserved",
         "social_links": {
             "linkedin": "https://sashwat.in/linkedin",
             "github": "https://sashwat.in/github",
@@ -81,12 +81,6 @@
                     "description": "I have helped setup automation scripts using python, shell, terraform, ansible and pipeline using DevOps tools.",
                     "project_count": "8+",
                     "icon": "infinity"
-                },
-                {
-                    "title": "PCB Designing",
-                    "description": "I have designed PCBs in college and open-source projects.",
-                    "project_count": "5+",
-                    "icon": "microchip"
                 }
             ],
             "skills": [
@@ -103,7 +97,7 @@
                 {
                     "skill_name": "Git",
                     "image_path": "git.png",
-                    "proficiency": "85%"
+                    "proficiency": "90%"
                 },
                 {
                     "skill_name": "Docker",
@@ -113,34 +107,22 @@
                 {
                     "skill_name": "Terraform",
                     "image_path": "terraform.png",
-                    "proficiency": "80%"
-                },
-                {
-                    "skill_name": "Ansible",
-                    "image_path": "ansible.png",
-                    "proficiency": "70%"
+                    "proficiency": "85%"
                 }
             ],
             "portfolio": [
                 {
-                    "project_name": "PCB Business Card",
-                    "project_link": "https://github.com/sashuu69/pcb-business-card",
-                    "project_img_path": "pcb-business-card.jpg",
-                    "tags": ["eaglepcb", "pcb"],
-                    "github_link": "https://github.com/sashuu69/pcb-business-card"
-                },
-                {
                     "project_name": "Arduino UNO clone for Industrial Purposes",
                     "project_link": "https://github.com/sashuu69/sph-mc-one",
                     "project_img_path": "sph-mc-one.jpg",
-                    "tags": ["eaglepcb", "pcb", "atmega"],
+                    "tags": [],
                     "github_link": "https://github.com/sashuu69/sph-mc-one"
                 },
                 {
                     "project_name": "Sashwat's Portfolio Website",
                     "project_link": "https://sashwat.in",
                     "project_img_path": "portfolio-website.jpg",
-                    "tags": ["python", "docker", "ansible", "terraform"],
+                    "tags": [],
                     "github_link": "https://github.com/sashuu69/portfolio-website"
                 }
             ],
